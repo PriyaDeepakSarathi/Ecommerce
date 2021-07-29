@@ -1,0 +1,39 @@
+.body {
+  background-color: palegoldenrod;
+  height: 700px;
+  width: auto;
+  margin: 0px;
+}
+
+.login {
+  background-color: rgb(247, 227, 17);
+  height: 400px;
+  width: 400px;
+  text-align: center;
+  place-items: center;
+  display: inline-block;
+  margin-left: 450px;
+  margin-top: 50px;
+  padding: 2rem 3rem;
+  align-items: center;
+  text-align: justify;
+}
+
+.input1 {
+  padding-top: 40px;
+}
+.input2 {
+  margin-top: 30px;
+}
+
+.body h1 {
+  text-align: center;
+  padding-top: 40px;
+}
+
+.btn {
+  margin-top: 20px;
+  background-color: palegoldenrod;
+  padding: 10px 20px;
+  font-size: medium;
+}
